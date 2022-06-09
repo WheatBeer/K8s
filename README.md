@@ -26,3 +26,6 @@
 
 **AWS Lightsail + K8s**
 - https://taesunny.github.io/kubernetes/how-to-install-kubernetes-cluster-with-kubeadm-on-aws-lightsail-instances/
+
+### 2. Installation
+https://docs.docker.com/engine/install/ubuntu/#set-up-the-repository
